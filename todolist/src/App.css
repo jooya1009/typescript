@@ -1,0 +1,21 @@
+#root {
+  margin: 0 auto;
+  width: 100vw;
+  height: 100vh;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #282c34;
+  color: white;
+}
+
+.test {
+  background-color: blueviolet;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+  padding: 20px;
+}
